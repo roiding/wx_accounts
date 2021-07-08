@@ -166,7 +166,7 @@ Page({
     if (isAccountAssistant) {
       wx.showModal({
         title: '提示',
-        content: '请添加专属技术支持微信：yynami',
+        content: '快加我微信：dingran_122568712',
         confirmText: '复制微信',
         success: ({ confirm }) => {
           if (confirm) {
